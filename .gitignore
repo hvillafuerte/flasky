@@ -1,0 +1,4 @@
+# Ignorar Archivos de configuración
+venv
+# Ignorar todos los archivos .txt
+.txt
